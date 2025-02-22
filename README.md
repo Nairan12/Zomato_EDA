@@ -39,3 +39,22 @@ The dataset consists of:
 - Other countries, like the UAE, show **limited online delivery adoption**, highlighting **potential global growth opportunities**.
 - **Bar charts** show how online delivery varies across countries.
 
+## **Some Visualization**
+![image](https://github.com/user-attachments/assets/3f8b6132-c716-42cd-8ef3-0e50c8faf5ba)
+
+-The pie chart shows that the majority of Zomato's records are concentrated in India, highlighting it as the core market. The United States and the United Kingdom contribute marginally, indicating limited operations in these regions. This suggests potential growth opportunities in expanding Zomato's presence internationally.
+
+![image](https://github.com/user-attachments/assets/03905bf7-beaa-4da3-b623-bf028c6933f1)
+
+- The count for not rated is really high
+- Maximum rating between 2.5 to 3.4
+![image](https://github.com/user-attachments/assets/8efcc8d7-be0d-4a98-938e-eaf106b6e3a6)
+![image](https://github.com/user-attachments/assets/2cc6e843-e385-41bd-a300-ad44e9d2c589)
+
+
+
+
+
+
+
+
